@@ -6,7 +6,7 @@ body {
   font-family: "Anton", sans-serif;
   color: #333333;
   background-color: #ece9e9;
-  padding: 150px 0;
+  padding: 9px 0;
 }
 
 p {
@@ -17,6 +17,7 @@ p {
   box-sizing: border-box;
   display: flex;
   justify-content: space-between;
+  align-content: center;
   flex-wrap: nowrap;
   width: 100%;
   padding: 50px;
